@@ -1,2 +1,2 @@
 # git_1
-This is a practice for git.
+This is a practice for git & github.
